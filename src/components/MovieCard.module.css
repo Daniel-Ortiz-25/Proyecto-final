@@ -7,7 +7,7 @@
 }
 
 .movieCard:hover {
-  opacity: 0.7;
+  opacity: 0.8;
   box-shadow: #FFF 0 -1px 4px, #ff0 0 -2px 10px, #ff8000 0 -10px 20px, red 0 -18px 40px, 5px 5px 15px 5px rgba(0,0,0,0);
   border-radius: 10px;
   text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
